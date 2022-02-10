@@ -11,10 +11,14 @@
 - 🔭 I’m currently working on different blockchain projects, mainly around NFTs.
 - 🤔 I’m looking for help with learning more in solidity development to push my expertise to the next level.
 
+<br>
+
 You can check my portfolio here : 
 <a href="https://docs.google.com/document/d/1lz9RWZ5z9B1t2JRc8b9Aej8DTJFuWS8iL-nArS-QRWw/edit?usp=sharing" rel="nofollow"> Updated porfolio </a>
 
-## 🔨Languages, Tools & Tech 👷
+<br>
+
+### Languages, Tools & Tech 👷🔨
 
 These are languages, tools, and technologies I either use at work or enjoy using on my own time.
 
