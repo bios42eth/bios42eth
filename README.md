@@ -6,11 +6,6 @@
             alt="LinkedIn" height="36px" style="max-width: 100%;"> </a>
 <br>
 
-### Hi there 👋
-
-- 🔭 I’m currently working on different blockchain projects, mainly around NFTs.
-- 🤔 I’m looking for help with learning more in solidity development to push my expertise to the next level.
-
 ### Languages, Tools & Tech 👷🔨
 
 These are languages, tools, and technologies I either use at work or enjoy using on my own time.
